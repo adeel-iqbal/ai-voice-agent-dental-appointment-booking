@@ -24,8 +24,8 @@
 
 > **Watch the full demo video to see Jennifer in action!**
 
-📹 [View Demo Video](demo/demo-video.mp4)
-
+📂 **[Demo Video](https://github.com/adeel-iqbal/ai-voice-agent-dental-appointment-booking/tree/main/demo)** - Full conversation walkthrough
+ 
 The demo showcases:
 - Complete appointment booking flow
 - Name confirmation with spelling
